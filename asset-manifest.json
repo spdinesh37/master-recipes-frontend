@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/master-recipes-frontend/static/css/main.5cab7e81.css",
+    "main.js": "/master-recipes-frontend/static/js/main.02186346.js",
+    "static/js/453.ca80e8c4.chunk.js": "/master-recipes-frontend/static/js/453.ca80e8c4.chunk.js",
+    "index.html": "/master-recipes-frontend/index.html",
+    "main.5cab7e81.css.map": "/master-recipes-frontend/static/css/main.5cab7e81.css.map",
+    "main.02186346.js.map": "/master-recipes-frontend/static/js/main.02186346.js.map",
+    "453.ca80e8c4.chunk.js.map": "/master-recipes-frontend/static/js/453.ca80e8c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cab7e81.css",
+    "static/js/main.02186346.js"
+  ]
+}
